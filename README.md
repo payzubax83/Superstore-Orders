@@ -33,6 +33,9 @@ The Superstore wants to analyze sales dated from January 3 2018 to April 16 2021
 
 ![main page](https://github.com/user-attachments/assets/3fb2467c-f883-4380-adde-11288d10cd2b)
 
+## Power BI file
+- <a href="https://github.com/payzubax83/Superstore-Orders/blob/main/Superstore%20orders.pbix">Power BI file</a>
+
 ## Project insight
 1.Total sales amount is 2.30M USD
 2.Total profit amount (Profit) is 598.62K USD
